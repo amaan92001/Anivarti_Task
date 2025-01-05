@@ -13,8 +13,7 @@ Welcome to the **Anivarti Community Website**! This full-stack application was b
 3. [Technologies Used](#technologies-used)
 4. [Installation](#installation)
 5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
+6. [License](#license)
 
 ---
 
