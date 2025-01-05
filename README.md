@@ -157,7 +157,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Amaan Abdulnabi Patel**  
   [GitHub](https://github.com/amaan92001)  
-  [LinkedIn](https://www.linkedin.com/in/amaan-patel/)
+  [LinkedIn](https://www.linkedin.com/in/amaan-patel-a12b92275/)
 
 ---
 
