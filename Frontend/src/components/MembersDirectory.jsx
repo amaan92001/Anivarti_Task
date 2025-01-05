@@ -5,7 +5,7 @@ function MembersDirectory() {
     const [members, setMembers] = useState([]);
 
     useEffect(() => {
-        axios.get('http://localhost:5000/members').then((response) => {
+        axios.get('https://anivarti-task.onrender.com/members').then((response) => {
             setMembers(response.data);
         });
     }, []);

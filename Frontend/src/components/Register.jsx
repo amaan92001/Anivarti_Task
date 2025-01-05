@@ -35,7 +35,7 @@ function Register() {
         try {
             setError('');
             setSuccess('');
-            const response = await axios.post('http://localhost:5000/register', form);
+            const response = await axios.post('https://anivarti-task.onrender.com/register', form);
             setSuccess(response.data);
             setForm({ name: '', email: '', password: '' });
         } catch (error) {

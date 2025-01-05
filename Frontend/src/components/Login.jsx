@@ -12,7 +12,7 @@ function Login({ onLoginSuccess }) {
     const handleLogin = async () => {
         try {
             setError('');
-            const response = await axios.post('http://localhost:5000/login', form);
+            const response = await axios.post('https://anivarti-task.onrender.com/login', form);
             onLoginSuccess();
         } catch (error) {
             setError(error.response ? error.response.data : 'Error logging in');
